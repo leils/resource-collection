@@ -1,5 +1,5 @@
 # resource-collection
-A text repository of interesting tools, texts, and thought-provoking writing
+A text repository of interesting tools, texts, references, and thought-provoking writing
 Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
 
 
@@ -14,3 +14,6 @@ Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
 
 ## Databases 
 - [Project Gutenberg](https://www.gutenberg.org)
+
+## Explanations 
+- [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4)
