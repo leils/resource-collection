@@ -32,4 +32,4 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 - "Video Games Have Always Been Queer" by Bonnie Ruberg: This book offers an exploration of LGBTQ representation in video games. *
 - "Gaming Representation: Race, Gender, and Sexuality in Video Games" edited by Jennifer Malkowski and TreaAndrea Russworm: A collection of essays that examine representations of race, gender, and sexuality in video games. *
 
-* suggested by ChatGPT
+*suggested by ChatGPT
