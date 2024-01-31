@@ -11,21 +11,23 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 
 ## Expansive Thinking
 - [Cree# by Jon Corbett](https://esoteric.codes/blog/jon-corbett)
-- 
 
 ## Gaming 
 -  *opinion* [Asian Appropriation in Video Games](https://www.gamingbible.com/news/platform/pc/assassins-creed-ghost-of-tsushima-stunning-rpg-377274-20240122)
 -  [Stray's Orientalism](https://kotaku.com/stray-game-annapurna-interactive-cat-cyberpunk-1849328820)
+-  [Moko are taonga](https://www.newshub.co.nz/home/entertainment/2023/06/anger-over-apparent-use-of-maori-tattoo-on-character-in-xbox-game-starfield.html)
+-  [Cultural Consultants](https://nativeprime.com/en/what-is-exactly-a-cultural-consultant-and-how-can-they-benefit-your-game/)
   
 
 ## Systems of Oppression
 - VOX: [Color Film was made for White People. Here's what it did to Black skin](https://www.youtube.com/watch?v=d16LNHIEJzs)
 
+---
+# Other
 
 ## Questions to consider: 
 - What should you *not* make?
 - Why do you want to make this?
-
 
 ## Resources I have not read yet:
 - "Race, Gender, and Deviance in Xbox Live" by Kishonna L. Gray: This book provides an in-depth look at issues of race and gender in the social environment of online gaming. *
