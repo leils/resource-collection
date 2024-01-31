@@ -1,4 +1,4 @@
-# Equity and Code
+# Equity, Ethics, and Code
 A collection of links, articles, and content surrounding (or mildly related to) the intersection of equity and technology.
 
 ## Technological Bias
@@ -22,7 +22,6 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 ## Systems of Oppression
 - VOX: [Color Film was made for White People. Here's what it did to Black skin](https://www.youtube.com/watch?v=d16LNHIEJzs)
 
----
 # Other
 
 ## Questions to consider: 
@@ -33,5 +32,8 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 - "Race, Gender, and Deviance in Xbox Live" by Kishonna L. Gray: This book provides an in-depth look at issues of race and gender in the social environment of online gaming. *
 - "Video Games Have Always Been Queer" by Bonnie Ruberg: This book offers an exploration of LGBTQ representation in video games. *
 - "Gaming Representation: Race, Gender, and Sexuality in Video Games" edited by Jennifer Malkowski and TreaAndrea Russworm: A collection of essays that examine representations of race, gender, and sexuality in video games. *
+- [Coded Bias](https://www.netflix.com/title/81328723) with Joy Buolamwini
+- [Unmasking AI](https://www.penguinrandomhouse.com/books/670356/unmasking-ai-by-joy-buolamwini/) by Joy Buolamwini
+  
 
 *suggested by ChatGPT
