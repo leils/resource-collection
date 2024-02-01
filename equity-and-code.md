@@ -10,7 +10,10 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 - 
 
 ## Expansive Thinking
-- [Cree# by Jon Corbett](https://esoteric.codes/blog/jon-corbett)
+- [Cree# by Jon Corbett](https://esoteric.codes/blog/jon-corbett)**
+- [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)**
+- [What I Won't Build](https://slideslive.com/38929585/what-i-wont-build) Rachel Tatam**
+
 
 ## Gaming 
 -  *opinion* [Asian Appropriation in Video Games](https://www.gamingbible.com/news/platform/pc/assassins-creed-ghost-of-tsushima-stunning-rpg-377274-20240122)
@@ -34,6 +37,9 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 - "Gaming Representation: Race, Gender, and Sexuality in Video Games" edited by Jennifer Malkowski and TreaAndrea Russworm: A collection of essays that examine representations of race, gender, and sexuality in video games. *
 - [Coded Bias](https://www.netflix.com/title/81328723) with Joy Buolamwini
 - [Unmasking AI](https://www.penguinrandomhouse.com/books/670356/unmasking-ai-by-joy-buolamwini/) by Joy Buolamwini
+- [Decolonizing Minority Language Technology](https://internetlanguages.org/en/stories/decolonizing-minority-language/)
   
 
 *suggested by ChatGPT
+
+***Some (many) of these resources were intoduced to my by Allison Parrish, through her [Reading and Writing Electronic Text class](https://rwet.decontextualize.com/schedule/) at NYU*
