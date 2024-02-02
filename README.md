@@ -21,7 +21,10 @@ Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
 
 ## Explanations 
 - [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4)
-- [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) from GMTK 
+- [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) from GMTK
+
+## Works 
+- [Rerites](https://glia.ca/rerites/) by David Jhave Johnston
 
 
 ***Introduced to my by the one and only Allison Parrish*
