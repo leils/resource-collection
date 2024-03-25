@@ -20,6 +20,10 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 -  [Stray's Orientalism](https://kotaku.com/stray-game-annapurna-interactive-cat-cyberpunk-1849328820)
 -  [Moko are taonga](https://www.newshub.co.nz/home/entertainment/2023/06/anger-over-apparent-use-of-maori-tattoo-on-character-in-xbox-game-starfield.html)
 -  [Cultural Consultants](https://nativeprime.com/en/what-is-exactly-a-cultural-consultant-and-how-can-they-benefit-your-game/)
+-  [Minecraft, Sandboxes, and Colonialism](https://www.youtube.com/watch?v=d6i5Ylu0mgM)
+-  [Cultural Appropriation, Postcolonial Fetishism, and Indigenous-Settler Relations in Blizzard Entertainment's World of Warcraft](https://atrium.lib.uoguelph.ca/items/90e9f606-0c6e-42f9-98b6-8115e8abcd2f)
+-  [Cowboys, Indians, Controversy, and Videogames](https://www.darrenreidhistory.co.uk/cowboys-indians-controversy-and-videogames/)
+-  [Indigenous Representation in Video Games](https://www.culturalsurvival.org/publications/cultural-survival-quarterly/indigenous-representation-video-games) 
   
 
 ## Systems of Oppression
