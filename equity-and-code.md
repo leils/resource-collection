@@ -7,6 +7,7 @@ A collection of links, articles, and content surrounding (or mildly related to) 
 - Mozilla: [Facial Recognition Bias](https://foundation.mozilla.org/en/blog/facial-recognition-bias/)
 - [Please enter a valid last name](https://medium.com/@johnamwill/please-enter-a-valid-last-name-c63dd5397a2a)
 - [Light sensors struggle on darker skin](https://www.theverge.com/2022/1/21/22893133/apple-fitbit-heart-rate-sensor-skin-tone-obesity)
+- [When AI mirrors our flows: Unveiling Bias in Midjourney](https://medium.com/@zaida.rivai/when-ai-mirrors-our-flaws-unveiling-bias-in-midjourney-1d5ef73b8e99)
 - 
 
 ## Expansive Thinking
