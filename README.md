@@ -6,6 +6,7 @@ Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
 ## Tools 
 ### Plain 
 - [Zotero](https://www.zotero.org) is for collecting research**
+- [Scripts for Illustrator](https://github.com/creold/illustrator-scripts/?tab=readme-ov-file) by Creold
   
 ### Poetic Computation
 - [Prose Play](https://www.proseplay.net) A poetic web tool by Katherine Yang
