@@ -27,5 +27,8 @@ Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
 ## Works 
 - [Rerites](https://glia.ca/rerites/) by David Jhave Johnston
 
+## Writings 
+- [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/) by Allison Parrish
+
 
 ***Introduced to my by the one and only Allison Parrish*
