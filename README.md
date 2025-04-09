@@ -28,7 +28,10 @@ Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
 - [Rerites](https://glia.ca/rerites/) by David Jhave Johnston
 
 ## Writings 
-- [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/) by Allison Parrish
+- [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/) by Allison Parrisho
+
+## Useful Snippets 
+- [Script to remove unwanted files post-gitignore](https://gist.github.com/jeffjohnson9046/80bc182db7ae2f4a6150)
 
 
 ***Introduced to my by the one and only Allison Parrish*
