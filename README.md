@@ -37,6 +37,7 @@ A lot of my work is in rapid prototyping and quickly getting an interaction goin
 - [Rerites](https://glia.ca/rerites/) by David Jhave Johnston
 - [Lucida](https://www.lachlanturczan.com/works/lucida) by Lachlan Turczan
 - [../documents/files/memories/mydigitalhoard](http://blairs.computer/) by Blair Simmons
+- [how to knit a breadboard](https://buttonmash.substack.com/p/how-to-knit-a-breadboard) by Alanna Okun
 
 
 ## Writings/Talks 
