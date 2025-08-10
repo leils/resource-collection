@@ -37,14 +37,18 @@ Explanations:
 - [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4) is literally the best explanation of electricity i've ever found 
 - [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) from GMTK
 
-Works I reference frequently:
+Works I reference occasionally:
 - [Rerites](https://glia.ca/rerites/) by David Jhave Johnston
 - [Lucida](https://www.lachlanturczan.com/works/lucida) by Lachlan Turczan
 - [../documents/files/memories/mydigitalhoard](http://blairs.computer/) by Blair Simmons
 - [how to knit a breadboard](https://buttonmash.substack.com/p/how-to-knit-a-breadboard) by Alanna Okun
 - [Waste Not](https://www.moma.org/calendar/exhibitions/960) by Song Dong
 - [One Half Log, Divided into a Chair and Scraps](https://ginasiepel.com/works/living-material/view/6583246/1/6584058) by Gina Siepel
-- [The Mending Project](https://www.famsf.org/events/mending-project) by Lee Mingwei 
+- [The Mending Project](https://www.famsf.org/events/mending-project) by Lee Mingwei
+- [Every HTML Element](https://iamwillwang.com/every-html-element/) by Will Wang
+- [rev --> table](https://johnkestner.com/rev/) by John Kestner
+- [Circuit Sculptures](https://www.bhoite.com/sculptures/) by Mohit Bhoite
+
 
 Misc 
 - [WTTDOM's list of prompts for creative inspiration](https://wttdotm.com/prompts.html)
