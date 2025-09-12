@@ -22,6 +22,7 @@ Other tools that I think are cool:
 - [Telescopic Text](https://github.com/jackyzha0/telescopic-text) by Jacky Zhao, more poetic interactive web
 - [GameMaker](https://gamemaker.io/en) Intro to 2d Games
 - [Engine.lol](https://engine.lol/alpha/) A web-based game engine by Chia Amisola
+- [paged.js](https://pagedjs.org/en/about/) Tools to create books from html
 
 Fiber x Tech 
 - [Digital Preservation Jumpers](https://digitalpreservation-blog.lib.cam.ac.uk/knitting-through-digital-decay-a-collection-of-digital-preservation-jumpers-no-one-asked-for-but-478c48009521) Jumpers and patterns by Leontien Talboom
