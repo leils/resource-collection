@@ -23,6 +23,10 @@ Other tools that I think are cool:
 - [GameMaker](https://gamemaker.io/en) Intro to 2d Games
 - [Engine.lol](https://engine.lol/alpha/) A web-based game engine by Chia Amisola
 - [paged.js](https://pagedjs.org/en/about/) Tools to create books from html
+- [constraint.systems](https://constraint.systems/) weird and wild constrained imagery tools
+- [glyphdrawing.club](https://glyphdrawing.club/)
+- [tooooools.app](https://www.tooooools.app/) image processing
+- 
 
 Fiber x Tech 
 - [Digital Preservation Jumpers](https://digitalpreservation-blog.lib.cam.ac.uk/knitting-through-digital-decay-a-collection-of-digital-preservation-jumpers-no-one-asked-for-but-478c48009521) Jumpers and patterns by Leontien Talboom
