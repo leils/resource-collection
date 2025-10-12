@@ -1,6 +1,5 @@
 # resource-collection
-A text repository of interesting tools, texts, references, and thought-provoking writing
-Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
+A text repository of interesting tools, texts, references, and thought-provoking writing<sup>1</sup>
 
 If I find myself referencing something in conversation more than twice, I try to put it here. 
 
@@ -47,7 +46,7 @@ Works I reference semi-frequently:
 - [../documents/files/memories/mydigitalhoard](http://blairs.computer/) by Blair Simmons
 - [how to knit a breadboard](https://buttonmash.substack.com/p/how-to-knit-a-breadboard) by Alanna Okun
 - [Waste Not](https://www.moma.org/calendar/exhibitions/960) by Song Dong
-- [One Half Log, Divided into a Chair and Scraps](https://ginasiepel.com/works/living-material/view/6583246/1/6584058) by Gina Siepel <sup>1</sup>
+- [One Half Log, Divided into a Chair and Scraps](https://ginasiepel.com/works/living-material/view/6583246/1/6584058) by Gina Siepel <sup>2</sup>
 - [The Mending Project](https://www.famsf.org/events/mending-project) by Lee Mingwei
 - [Every HTML Element](https://iamwillwang.com/every-html-element/) by Will Wang
 - [rev --> table](https://johnkestner.com/rev/) by John Kestner
@@ -59,12 +58,13 @@ Misc
 - [Project Gutenberg](https://www.gutenberg.org)** a database of many, many texts 
 - [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/)** by Allison Parrish
 - [What I Won't Build](https://slideslive.com/38929585/what-i-wont-build)** by Rachel Tatman
-- [web tools arena](https://www.are.na/_-pitscher/web-tools-byjgbwy_wrg)*<sup>2</sup>
+- [web tools arena](https://www.are.na/_-pitscher/web-tools-byjgbwy_wrg)*<sup>3</sup>
 
 ## Footnotes
 *i haven't use this, but I want to or am inspired by it
 
 **introduced to my by the one and only Allison Parrish
 
-1: i saw this in philly and got lost in it, i think about this almost weekly  
-2: found from dear friend alice zhang who followed this on arena
+1: Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
+2: i saw this in philly and got lost in it, i think about this almost weekly  
+3: found from dear friend alice zhang who followed this on arena
