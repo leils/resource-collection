@@ -65,6 +65,6 @@ Misc
 
 **introduced to my by the one and only Allison Parrish
 
-1: Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)
+1: Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)  
 2: i saw this in philly and got lost in it, i think about this almost weekly  
 3: found from dear friend alice zhang who followed this on arena
