@@ -55,16 +55,18 @@ Works I reference semi-frequently:
 
 Misc 
 - [WTTDOM's list of prompts for creative inspiration](https://wttdotm.com/prompts.html)
+- [nolen's nyc tech-art-games traingle](https://eieio.games/blog/the-nyc-game-art-tech-triangle/)<sup>3</sup>
 - [Project Gutenberg](https://www.gutenberg.org)** a database of many, many texts 
 - [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/)** by Allison Parrish
 - [What I Won't Build](https://slideslive.com/38929585/what-i-wont-build)** by Rachel Tatman
-- [web tools arena](https://www.are.na/_-pitscher/web-tools-byjgbwy_wrg)*<sup>3</sup>
+- [web tools arena](https://www.are.na/_-pitscher/web-tools-byjgbwy_wrg)*<sup>4</sup>
 
 ## Footnotes
 *i haven't use this, but I want to or am inspired by it
 
 **introduced to my by the one and only Allison Parrish
 
-1: Inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)  
+1: inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)  
 2: i saw this in philly and got lost in it, i think about this almost weekly  
-3: found from dear friend alice zhang who followed this on arena
+3: i never used this while in ny but i love the way nolen thinks and want to make one of these for sf 
+4: found from dear friend alice zhang who followed this on arena
