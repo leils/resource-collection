@@ -17,20 +17,19 @@ A lot of my work is in rapid prototyping and quickly getting an interaction goin
 
 Other tools that I think are cool: 
 
-- [Zotero](https://www.zotero.org) is for collecting research**
+- [Zotero](https://www.zotero.org)** is for collecting research
 - [Prose Play](https://www.proseplay.net) A poetic web tool by Katherine Yang
 - [Telescopic Text](https://github.com/jackyzha0/telescopic-text) by Jacky Zhao, more poetic interactive web
-- [GameMaker](https://gamemaker.io/en) Intro to 2d Games
-- [Engine.lol](https://engine.lol/alpha/) A web-based game engine by Chia Amisola
-- [paged.js](https://pagedjs.org/en/about/) Tools to create books from html
+- [GameMaker](https://gamemaker.io/en)* Intro to 2d Games
+- [Engine.lol](https://engine.lol/alpha/)* A web-based game engine by Chia Amisola
+- [paged.js](https://pagedjs.org/en/about/)* Tools to create books from html
 - [constraint.systems](https://constraint.systems/) weird and wild constrained imagery tools
-- [glyphdrawing.club](https://glyphdrawing.club/)
+- [glyphdrawing.club](https://glyphdrawing.club/)*
 - [tooooools.app](https://www.tooooools.app/) image processing
-- 
 
 Fiber x Tech 
 - [Digital Preservation Jumpers](https://digitalpreservation-blog.lib.cam.ac.uk/knitting-through-digital-decay-a-collection-of-digital-preservation-jumpers-no-one-asked-for-but-478c48009521) Jumpers and patterns by Leontien Talboom
-- [Typeknitting](https://typeknitting.net/) Fonts and typefaces that are fiber-native
+- [Typeknitting](https://typeknitting.net/)* Fonts and typefaces that are fiber-native
 
 Useful snippets of code and other things: 
 - [Script to remove unwanted files post-gitignore](https://gist.github.com/jeffjohnson9046/80bc182db7ae2f4a6150)
@@ -42,13 +41,13 @@ Explanations:
 - [An intuitive approach for understanding electricity](https://www.youtube.com/watch?v=X_crwFuPht4) is literally the best explanation of electricity i've ever found 
 - [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) from GMTK
 
-Works I reference occasionally:
+Works I reference semi-frequently:
 - [Rerites](https://glia.ca/rerites/) by David Jhave Johnston
 - [Lucida](https://www.lachlanturczan.com/works/lucida) by Lachlan Turczan
 - [../documents/files/memories/mydigitalhoard](http://blairs.computer/) by Blair Simmons
 - [how to knit a breadboard](https://buttonmash.substack.com/p/how-to-knit-a-breadboard) by Alanna Okun
 - [Waste Not](https://www.moma.org/calendar/exhibitions/960) by Song Dong
-- [One Half Log, Divided into a Chair and Scraps](https://ginasiepel.com/works/living-material/view/6583246/1/6584058) by Gina Siepel
+- [One Half Log, Divided into a Chair and Scraps](https://ginasiepel.com/works/living-material/view/6583246/1/6584058) by Gina Siepel <sup>1</sup>
 - [The Mending Project](https://www.famsf.org/events/mending-project) by Lee Mingwei
 - [Every HTML Element](https://iamwillwang.com/every-html-element/) by Will Wang
 - [rev --> table](https://johnkestner.com/rev/) by John Kestner
@@ -58,9 +57,14 @@ Works I reference occasionally:
 Misc 
 - [WTTDOM's list of prompts for creative inspiration](https://wttdotm.com/prompts.html)
 - [Project Gutenberg](https://www.gutenberg.org)** a database of many, many texts 
-- [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/) by Allison Parrish
-- [What I Won't Build](https://slideslive.com/38929585/what-i-wont-build) by Rachel Tatman
+- [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/)** by Allison Parrish
+- [What I Won't Build](https://slideslive.com/38929585/what-i-wont-build)** by Rachel Tatman
+- [web tools arena](https://www.are.na/_-pitscher/web-tools-byjgbwy_wrg)*<sup>2</sup>
 
+## Footnotes
+*i haven't use this, but I want to or am inspired by it
 
+**introduced to my by the one and only Allison Parrish
 
-***Introduced to my by the one and only Allison Parrish*
+1: i saw this in philly and got lost in it, i think about this almost weekly  
+2: found from dear friend alice zhang who followed this on arena
