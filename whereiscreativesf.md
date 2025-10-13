@@ -57,3 +57,4 @@ Education???
 Community??? 
 
 Spaces triangle: events/workshops/makerspaces? 
+thinking about [nolen's triangle](https://eieio.games/blog/the-nyc-game-art-tech-triangle/)
