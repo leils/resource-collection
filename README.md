@@ -34,6 +34,7 @@ Useful snippets of code and other things:
 - [Script to remove unwanted files post-gitignore](https://gist.github.com/jeffjohnson9046/80bc182db7ae2f4a6150)
 - [Things you should know about MaxMSP](https://steinkamp.us/posts/2022-04-14-max-tips)
 - [Scripts for Illustrator](https://github.com/creold/illustrator-scripts/?tab=readme-ov-file) by Creold
+- [1 euro filter](https://gery.casiez.net/1euro/) for input smoothing
 
 ## Works, Explanations, Writing 
 Explanations: 
