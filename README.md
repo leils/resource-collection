@@ -52,6 +52,7 @@ Works I reference semi-frequently:
 - [Every HTML Element](https://iamwillwang.com/every-html-element/) by Will Wang
 - [rev --> table](https://johnkestner.com/rev/) by John Kestner
 - [Circuit Sculptures](https://www.bhoite.com/sculptures/) by Mohit Bhoite
+- [Dear Data](https://www.dear-data.com/theproject) by Giorgia Lupi and Stefanie Posavec
 
 
 Misc 
@@ -61,6 +62,7 @@ Misc
 - [Language Models Can Only Write Poetry](https://posts.decontextualize.com/language-models-poetry/)** by Allison Parrish
 - [What I Won't Build](https://slideslive.com/38929585/what-i-wont-build)** by Rachel Tatman
 - [web tools arena](https://www.are.na/_-pitscher/web-tools-byjgbwy_wrg)*<sup>4</sup>
+- [low tech mag](https://solar.lowtechmagazine.com/about/the-solar-website/) a foundational resource on low-tech, low-energy websites
 
 ## Footnotes
 *i haven't use this, but I want to or am inspired by it
@@ -69,5 +71,5 @@ Misc
 
 1: inspired by [Allison Parrish's](https://github.com/aparrish/text-resources)  
 2: i saw this in philly and got lost in it, i think about this almost weekly  
-3: i never used this while in ny but i love the way nolen thinks and want to make one of these for sf 
+3: i never used this while in ny but i love the way nolen thinks and want to make one of these for sf  
 4: found from dear friend alice zhang who followed this on arena
