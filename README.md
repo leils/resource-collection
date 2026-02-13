@@ -7,11 +7,12 @@ If I find myself referencing something in conversation more than twice, I try to
 ## Tools 
 
 A lot of my work is in rapid prototyping and quickly getting an interaction going. 
-- Code-wise, I work in-browser (HTML & JS) and on microcontrollers (Arduino). I play around a lot in [P5.js](http://p5js.org).
-- For quick websites that need to be online fast, I use [Glitch](glitch.com) or [Replit](https://replit.com/). For small, server-less sites, they're on Github Pages. 
+- Code-wise, I work in-browser (HTML & JS) and on microcontrollers (Arduino). I play around a lot in [P5.js](http://p5js.org) (but I'm looking at alternatives!).
+- For quick websites that need to be online fast, I use [Glitch](glitch.com) or [Replit](https://replit.com/). For small, server-less sites, they're on Github Pages.
 - I use [MaxMSP](https://cycling74.com) for quickly prototyping things that require signal manipulation & audio.
 - All of my drawings are done in [Procreate](https://procreate.com), but I also sometimes use it to prototype touch-screen interactions.
 - 2D designs happen in Illustrator. 3D designs and PCBs are in Fusion360.
+- 3D sculpting is mostly in Nomad, on iPad. 
 - I also sketch on paper a lot! Paper, pencil, cardboard, glue. 
 
 Other tools that I think are cool: 
@@ -29,6 +30,7 @@ Other tools that I think are cool:
 Fiber x Tech 
 - [Digital Preservation Jumpers](https://digitalpreservation-blog.lib.cam.ac.uk/knitting-through-digital-decay-a-collection-of-digital-preservation-jumpers-no-one-asked-for-but-478c48009521) Jumpers and patterns by Leontien Talboom
 - [Typeknitting](https://typeknitting.net/)* Fonts and typefaces that are fiber-native
+- ["Digital Embroidery" are.na channel](https://www.are.na/alina-spatz/digital-embroidery-9pazah2eez0) by Alina Spatz
 
 Useful snippets of code and other things: 
 - [Script to remove unwanted files post-gitignore](https://gist.github.com/jeffjohnson9046/80bc182db7ae2f4a6150)
